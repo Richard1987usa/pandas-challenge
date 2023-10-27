@@ -1,0 +1,5 @@
+In summary, this examination indicates that the type of school, the total student population, and the per-student budget of schools appear to influence test outcomes. Significantly, the top-performing institutions were charter schools, those with a modest to moderate student enrollment, and schools with lower budget allocations per student.
+
+School category plays a pivotal role: when evaluating the overall percentage of students who achieved passing grades, charter schools consistently outperformed district schools. Notably, even the lowest-performing charter school had an overall passing rate of 89.23%, while the highest-performing district school only reached 54.64%.
+
+Additionally, we assessed variations in test scores across different grades for both math and reading assessments. Surprisingly, these scores exhibited striking similarities across all grades within each school. Generally, the variations in test scores were minimal, often differing by just one point, and this pattern held true for virtually every school in the analysis.
